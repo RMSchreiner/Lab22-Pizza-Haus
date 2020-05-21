@@ -1,0 +1,15 @@
+div {
+  width: 345px;
+  padding: 15px;
+  border: 10px solid gray;
+  margin: 10px; 
+}
+
+h2 {
+	font-size: 25px;
+}
+
+a {
+	font-size: 28px;
+}
+
